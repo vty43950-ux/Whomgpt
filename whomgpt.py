@@ -1,5 +1,4 @@
-Whomrx-gpt - Powered by Google Gemini API
-# Code by Mr.X | Leader of RSH
+# Code by Van Ty
 # Cyberpunk Neon Enhanced | Do not recode this kids
 
 import os
